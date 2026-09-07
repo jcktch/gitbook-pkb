@@ -4,4 +4,6 @@
 
 ## PROGRAMMATION
 
-* [Page 1](programmation/page-1.md)
+* [C](programmation/c/README.md)
+  * [Variables](programmation/c/variables.md)
+  * [Conditions](programmation/c/conditions.md)
