@@ -25,5 +25,3 @@ read me
 
 
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>QjSHkVVHVKot</td><td><a href="/broken/pages/gQUlR9JJ9BIw0quXMZdO">Broken link</a></td></tr></tbody></table>
-
